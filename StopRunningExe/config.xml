@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settings>
+  <Setting LookFor="Title">
+    <Name>Notepad</Name>
+    <Command>notepad.exe</Command>
+    <Title>notepad</Title>
+  </Setting>
+</Settings>
